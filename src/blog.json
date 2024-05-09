@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Food Waste",
+      "author": "Ashwanth",
+      "content": "Food waste is an estimated economic loss of over a trillion dollars, and that it generates 8 to 10% of global greenhouse gas emissions. When waste sits in a landfill, it creates methane, a harmful greenhouse gas. The world wasted 1.05 billion tonnes of food, which is almost one-fifth of all food available to consumers. The report also states that 60% of this waste comes from the gatherings, 28% from food services, and 12% from hotels.",
+      "img":"/wastage/waste1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Donation",
+      "author": "Vipin",
+      "content": "Food donation can help feed people, support local communities, and save resources that would otherwise end up in landfills.Donating food can also help to educate and raise awareness about food insecurity, prompting individuals to become more involved in community initiatives. It can also inspire others to contribute and help build a network of support. FooDo Waste is a food donation and distribution platform that connects food services, charities, and people in need.",
+      "img":"/donation/donation1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hunger Heros",
+      "author": "Karthi",
+      "content": "Food NGOs in India play a vital role in the fight against hunger. They help to improve the health and well-being of individuals and families around the world by providing nutritious meals to those in need. They also work to increase access to nutritious food, reduce food waste, execute mid-day meal programs, and address the root causes of food insecurity. The main objective of these heroes is to avoid food wastage and help the needy.",
+      "img":"/ngos/ngos1.png"
+    }
+  ]
+  
