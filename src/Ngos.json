@@ -1,0 +1,42 @@
+[
+    {
+        "NGOname": "NGO 1",
+        "location": "City A",
+        "foodRequired": 50,
+        "contactNumber": "123-456-7890"
+      },{
+        "NGOname": "NGO 2",
+        "location": "City A",
+        "foodRequired": 50,
+        "contactNumber": "123-456-7890"
+      },{
+        "NGOname": "NGO 3",
+        "location": "City A",
+        "foodRequired": 50,
+        "contactNumber": "123-456-7890"
+      },
+      {
+        "NGOname": "NGO 3",
+        "location": "City A",
+        "foodRequired": 50,
+        "contactNumber": "123-456-7890"
+      },
+      {
+        "NGOname": "NGO 3",
+        "location": "City A",
+        "foodRequired": 50,
+        "contactNumber": "123-456-7890"
+      },
+      {
+        "NGOname": "NGO 3",
+        "location": "City A",
+        "foodRequired": 50,
+        "contactNumber": "123-456-7890"
+      },
+      {
+        "NGOname": "NGO 3",
+        "location": "City A",
+        "foodRequired": 50,
+        "contactNumber": "123-456-7890"
+      }
+]

@@ -1,0 +1,51 @@
+[
+    {
+      "charityName": "Charity A",
+      "location": "City A",
+      "foodRequired": 50,
+      "contactNumber": "123-456-7890"
+    },
+    {
+      "charityName": "Charity B",
+      "location": "City B",
+      "foodRequired": 30,
+      "contactNumber": "987-654-3210"
+    },
+    {
+      "charityName": "Charity C",
+      "location": "City B",
+      "foodRequired": 30,
+      "contactNumber": "987-654-3210"
+    },
+    {
+      "charityName": "Charity C",
+      "location": "City B",
+      "foodRequired": 30,
+      "contactNumber": "987-654-3210"
+    },
+    {
+      "charityName": "Charity C",
+      "location": "City B",
+      "foodRequired": 30,
+      "contactNumber": "987-654-3210"
+    },
+    {
+      "charityName": "Charity C",
+      "location": "City B",
+      "foodRequired": 30,
+      "contactNumber": "987-654-3210"
+    },
+    {
+      "charityName": "Charity C",
+      "location": "City B",
+      "foodRequired": 30,
+      "contactNumber": "987-654-3210"
+    },
+    {
+      "charityName": "Charity D",
+      "location": "City B",
+      "foodRequired": 30,
+      "contactNumber": "987-654-3210"
+    }
+  ]
+  

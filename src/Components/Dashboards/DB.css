@@ -1,0 +1,116 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.containerr {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+nav {
+    flex: 0;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-toggler {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: black;
+}
+
+.search-form {
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+
+.search-button {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    border: none;
+    border-radius: 0.25rem;
+    color: white;
+    cursor: pointer;
+}
+
+.sections {
+    display: flex;
+    flex: 1;
+}
+
+.section {
+    flex: 1;
+    padding: 20px;
+}
+
+.section:nth-child(odd) {
+    background-color: #f0f0f0;
+}
+
+#welcome {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#address {
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+#foodInfo {
+    text-align: center;
+}
+
+.submit-button {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    border: none;
+    border-radius: 0.25rem;
+    color: white;
+    cursor: pointer;
+}
+.rightside{
+    background-color: #e6b7b7;
+    padding: 10px;
+    border-radius: 10px;
+    
+}

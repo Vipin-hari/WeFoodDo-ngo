@@ -1,0 +1,74 @@
+/* Ensure the HTML and body take up the entire viewport height */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin:15px;
+}
+
+.card {
+  width: calc(33.33% - 20px); /* Adjust width based on margin */
+  margin-bottom: 20px;
+  border: 2px solid #806161;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px #0a0a0a;
+  cursor: pointer;
+  /* background-color: rgb(134, 209, 241); */
+  color: rgb(236, 220, 179);
+background-color: transparent;
+backdrop-filter: blur(5px);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.card-body {
+  padding: 20px;
+  backdrop-filter: blur(3px);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-shadow: 2px 1px #070707;
+  
+}
+
+.card-text {
+  margin-bottom: 10px;
+  color: #010000;
+}
+.mini{
+  background-color: #bdb7b7;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card {
+    width: calc(100% - 20px);
+  }
+}
+
+
+.h1style{
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgba(247, 232, 25, 0.724);
+ 
+}
+
